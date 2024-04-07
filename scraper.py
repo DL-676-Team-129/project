@@ -17,12 +17,12 @@ def getdata(url):
     return r.text
 
 for prod in labels:
-    htmldata = getdata("https://www.ebay.com/sch/i.html?_from=R40&_nkw={}&_sacat=0&LH_TitleDesc=0&_ipg=120".format(prod))
+    htmldata = getdata("https://www.ebay.com/sch/i.html?_from=R40&_nkw={}&_sacat=0&LH_TitleDesc=0&_ipg=240&_pgn=3".format(prod))
     soup = BeautifulSoup(htmldata, 'html.parser')
     links = soup.find_all('img')
 
     import os
-    with open("./image-urls/{}.txt".format(prod), "w") as f:
+    with open("./image-urls/{}.txt".format(prod), "a") as f:
         for item in links:
             f.write(item['src'] + "\n")
 

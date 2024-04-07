@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="295de051-d11f-4d17-95b9-252e1a976b3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/image-urls/action-camera.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/action-camera.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/action-figures.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/action-figures.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/aquarium-decor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/aquarium-decor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/aquarium-filter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/aquarium-filter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/aromatherapy-set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/aromatherapy-set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/backpack.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/backpack.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/basketball.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/basketball.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bath-bombs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bath-bombs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bath-towel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bath-towel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bbq-tools.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bbq-tools.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/beach-towel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/beach-towel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/beard-oil.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/beard-oil.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bicycle-helmet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bicycle-helmet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bicycle-lock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bicycle-lock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/binoculars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/binoculars.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bird-feeder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bird-feeder.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/blender.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/blender.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bluetooth-speaker.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bluetooth-speaker.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/board-game-accessories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/board-game-accessories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/board-games.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/board-games.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/body-lotion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/body-lotion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/body-wash.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/body-wash.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bookshelf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bookshelf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bottle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bottle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/bread-maker.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/bread-maker.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/calendar.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/calendar.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/camping-lantern.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/camping-lantern.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/camping-stove.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/camping-stove.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/camping-tent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/camping-tent.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/candle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/candle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/canned-soup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/canned-soup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/canvas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/canvas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/cat-toys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/cat-toys.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/charcoal-pencils.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/charcoal-pencils.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/cheese-grater.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/cheese-grater.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/chocolate-box.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/chocolate-box.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/coffee-beans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/coffee-beans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/coffee-maker.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/coffee-maker.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/cologne.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/cologne.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/comic-books.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/comic-books.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/conditioner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/conditioner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/cookbook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/cookbook.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/cordless-vacuum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/cordless-vacuum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/crafting-glue.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/crafting-glue.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/crock-pot.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/crock-pot.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/cycling-shorts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/cycling-shorts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/deodorant.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/deodorant.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/desk-fan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/desk-fan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/desk-lamp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/desk-lamp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/desk-organizer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/desk-organizer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/diary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/diary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/diffuser.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/diffuser.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/dog-leash.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/dog-leash.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/dollhouse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/dollhouse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/dumbbell-set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/dumbbell-set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/e-reader.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/e-reader.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/easel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/easel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/electric-toothbrush.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/electric-toothbrush.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/espresso-machine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/espresso-machine.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/essential-oil.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/essential-oil.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/external-hard-drive.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/external-hard-drive.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/eyeshadow-palette.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/eyeshadow-palette.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/face-mask.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/face-mask.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/facial-cleanser.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/facial-cleanser.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/first-aid-kit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/first-aid-kit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/fishing-lures.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/fishing-lures.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/fishing-rod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/fishing-rod.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/fitness-band.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/fitness-band.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/fitness-tracker.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/fitness-tracker.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/food-processor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/food-processor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/football.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/football.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/gaming-keyboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/gaming-keyboard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/gaming-mouse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/gaming-mouse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/garden-hose.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/garden-hose.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/garden-tools-set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/garden-tools-set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/golf-clubs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/golf-clubs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/granola-bars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/granola-bars.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/graphic-novels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/graphic-novels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/grill.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/grill.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/hair-dryer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/hair-dryer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/hair-styling-gel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/hair-styling-gel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/hammer-drill.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/hammer-drill.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/hand-cream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/hand-cream.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/hand-sanitizer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/hand-sanitizer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/hdmi-cable.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/hdmi-cable.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/headphones.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/headphones.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/highlighter-pens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/highlighter-pens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/hiking-boots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/hiking-boots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/ice-cream-scoop.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/ice-cream-scoop.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/inflatable-kayak.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/inflatable-kayak.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/ink-cartridge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/ink-cartridge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/insect-repellent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/insect-repellent.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/jigsaw-puzzle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/jigsaw-puzzle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/juicer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/juicer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/kettlebell.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/kettlebell.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/kitchen-knife-set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/kitchen-knife-set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/kitchen-scale.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/kitchen-scale.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/knitting-needles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/knitting-needles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/language-learning-book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/language-learning-book.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/laptop.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/laptop.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/lawn-mower.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/lawn-mower.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/leggings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/leggings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/lipstick.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/lipstick.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/makeup-brush-set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/makeup-brush-set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/makeup-remover.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/makeup-remover.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/mixer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/mixer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/mouthwash.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/mouthwash.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/nail-polish-set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/nail-polish-set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/noise-cancelling-headphones.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/noise-cancelling-headphones.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/notebook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/notebook.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/olive-oil.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/olive-oil.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/outdoor-fire-pit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/outdoor-fire-pit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/paint-brushes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/paint-brushes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/pasta-selection.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/pasta-selection.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/patio-furniture-covers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/patio-furniture-covers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/pencil-case.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/pencil-case.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/perfume.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/perfume.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/pet-bed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/pet-bed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/pet-carrier.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/pet-carrier.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/pet-grooming-kit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/pet-grooming-kit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/photo-paper.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/photo-paper.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/picture-frame.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/picture-frame.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/planner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/planner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/plant-pot.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/plant-pot.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/pool-float.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/pool-float.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/portable-stove.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/portable-stove.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/power-bank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/power-bank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/printer-paper.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/printer-paper.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/protein-bars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/protein-bars.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/protein-powder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/protein-powder.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/puzzle-mat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/puzzle-mat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/razor-blades.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/razor-blades.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/rechargeable-batteries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/rechargeable-batteries.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/rice-cooker.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/rice-cooker.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/room-fragrance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/room-fragrance.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/running-shoes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/running-shoes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/salad-spinner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/salad-spinner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/screwdriver-set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/screwdriver-set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/sd-card.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/sd-card.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/sewing-machine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/sewing-machine.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/shampoo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/shampoo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/shaving-cream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/shaving-cream.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/skateboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/skateboard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/sketchbook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/sketchbook.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/ski-goggles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/ski-goggles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/skincare-serum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/skincare-serum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/sleep-mask.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/sleep-mask.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/sleeping-bag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/sleeping-bag.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/smartphone-case.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/smartphone-case.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/smartphone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/smartphone.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/smartwatch.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/smartwatch.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/sneakers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/sneakers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/snowboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/snowboard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/spice-grinder.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/spice-grinder.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/spice-rack.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/spice-rack.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/spice-set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/spice-set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/sports-bra.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/sports-bra.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/stapler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/stapler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/star-projector.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/star-projector.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/steam-iron.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/steam-iron.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/suitcase.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/suitcase.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/sunglasses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/sunglasses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/sunscreen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/sunscreen.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/surfboard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/surfboard.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/table-lamp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/table-lamp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/tablet-stand.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/tablet-stand.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/tape-dispenser.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/tape-dispenser.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/tea-assortment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/tea-assortment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/telescope.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/telescope.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/tennis-racket.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/tennis-racket.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/thermal-flask.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/thermal-flask.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/throw-blanket.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/throw-blanket.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/toaster-oven.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/toaster-oven.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/toner-cartridge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/toner-cartridge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/tool-box.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/tool-box.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/toothpaste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/toothpaste.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/travel-guidebook.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/travel-guidebook.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/travel-mug.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/travel-mug.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/travel-pillow.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/travel-pillow.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/usb-flash-drive.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/usb-flash-drive.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/vacuum-sealer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/vacuum-sealer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/vinegar-variety-pack.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/vinegar-variety-pack.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/vinyl-records.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/vinyl-records.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/vitamins-and-supplements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/vitamins-and-supplements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/waffle-maker.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/waffle-maker.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/wall-clock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/wall-clock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/wallet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/wallet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/watch.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/watch.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/water-bottle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/water-bottle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/watercolor-set.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/watercolor-set.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/wine-glasses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/wine-glasses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/wireless-charger.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/wireless-charger.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/world-map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/world-map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/yarn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/yarn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/yoga-block.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/yoga-block.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/yoga-dvd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/yoga-dvd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/yoga-mat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/yoga-mat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image-urls/yoga-pants.txt" beforeDir="false" afterPath="$PROJECT_DIR$/image-urls/yoga-pants.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ek07kcmRGDlnrHIt953al5gTd0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ibahadiraltun/Desktop/cse676/project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/legacy" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="295de051-d11f-4d17-95b9-252e1a976b3b" name="Changes" comment="" />
+      <created>1712433104572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712433104572</updated>
+      <workItem from="1712433105664" duration="11622000" />
+      <workItem from="1712461751768" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
